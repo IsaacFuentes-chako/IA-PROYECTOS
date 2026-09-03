@@ -1,6 +1,6 @@
 
 ---
-# Datos en Contexto 📊
+# Datos en Contexto
 
 Portafolio de proyectos de ciencia de datos e inteligencia artificial. Análisis, modelos y experimentos, en constante actualización.
 
@@ -62,3 +62,4 @@ Estos proyectos combinan fundamentos de estadística con herramientas de machine
 ## 📬 Contacto
 
 ¿Preguntas o sugerencias? Abre un issue o contáctame directamente.
+Correo: isaac.fuentes@udem.edu
