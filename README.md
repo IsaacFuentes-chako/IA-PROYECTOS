@@ -14,7 +14,7 @@ Cada proyecto explora una pregunta concreta usando datos reales, con un enfoque 
 2. [Felicidad vs Riqueza](./felicidad-vs-riqueza/README.md) — ¿el dinero compra felicidad? Un modelo de regresión con datos de 141 países.
 3. [Prediciendo Calificaciones](./prediciendo-calificaciones/README.md) — ¿qué variables predicen mejor el desempeño académico de un estudiante?
 
-> Este repositorio crecerá con el tiempo — nuevos proyectos se irán agregando conforme surjan nuevas preguntas que valga la pena explorar con datos.
+> Este repositorio crecerá con el tiempo — nuevos proyectos se irán agregando.
 
 ---
 
