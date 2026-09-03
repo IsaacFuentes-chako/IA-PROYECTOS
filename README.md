@@ -11,7 +11,7 @@ Cada proyecto explora una pregunta concreta usando datos reales, con un enfoque 
 ## 📁 Índice de proyectos
 
 1. [Obesidad en Latinoamérica](./obesidad-latam/README.md) — ¿qué factores se asocian con los niveles de obesidad en Colombia, Perú y México?
-2. [Felicidad vs Riqueza](./felicidad-vs-riqueza/README.md) — ¿el dinero compra felicidad? Un modelo de regresión con datos de 141 países.
+2. [Felicidad vs Riqueza](./felicidad-vs-riqueza/README.md) — ¿el dinero tiene relación directa con la felicidad? Un modelo de regresión con datos de 141 países.
 3. [Prediciendo Calificaciones](./prediciendo-calificaciones/README.md) — ¿qué variables predicen mejor el desempeño académico de un estudiante?
 
 > Este repositorio crecerá con el tiempo — nuevos proyectos se irán agregando.
