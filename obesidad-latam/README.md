@@ -26,6 +26,6 @@ Los niveles de obesidad representan un problema de salud pública de gran releva
 
 ## Contenido
 
-- [Reporte en formato ipynb](./analisis.ipynb)
+- <a href="./analisis.ipynb" download>Reporte en formato ipynb</a>
 - [Reporte en formato html](./analisis.html)
-- [Base de datos](./datos.csv)
+- <a href="./datos.csv" download>Base de datos</a>
