@@ -1,4 +1,4 @@
-
+---
 ---
 # Datos en Contexto
 
@@ -13,6 +13,7 @@ Cada proyecto explora una pregunta concreta usando datos reales, con un enfoque 
 1. [Obesidad en Latinoamérica](./obesidad-latam/README.md) — ¿qué factores se asocian con los niveles de obesidad en Colombia, Perú y México?
 2. [Felicidad vs Riqueza](./felicidad-vs-riqueza/README.md) — ¿el dinero tiene relación directa con la felicidad? Un modelo de regresión con datos de 141 países.
 3. [Prediciendo Calificaciones](./prediciendo-calificaciones/README.md) — ¿qué variables predicen mejor el desempeño académico de un estudiante?
+4. [Acceso a educación superior en los municipios de Oaxaca](./acceso-educativo-oaxaca/README.md) — desigualdad en la continuidad educativa entre municipios y su relación con rezago social y migración.
 
 > Este repositorio crecerá con el tiempo — nuevos proyectos se irán agregando.
 
@@ -42,7 +43,12 @@ datos-en-contexto/
 │   ├── analisis.ipynb
 │   ├── analisis.html
 │   └── datos.csv
-└── prediciendo-calificaciones/
+├── prediciendo-calificaciones/
+│   ├── README.md
+│   ├── analisis.ipynb
+│   ├── analisis.html
+│   └── datos.csv
+└── acceso-educativo-oaxaca/
     ├── README.md
     ├── analisis.ipynb
     ├── analisis.html
